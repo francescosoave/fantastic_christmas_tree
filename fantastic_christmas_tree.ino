@@ -1,3 +1,8 @@
+/*
+* The Fantastic Christmas Tree
+* By Francesco Soave
+*/
+
 #include "pitches.h"
 #include <String.h>  
 #include <avr/pgmspace.h>
